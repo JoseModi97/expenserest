@@ -14,7 +14,7 @@ export default {
 		otpDuration: 5, //in minutes
 	},
 	database: {
-		name:"c:/users/jose/documents/radsystems/noderad projects/expenserest/database/expense_manager.db",
+		name:"expense_manager.db",
 		type: "sqlite",
 		host: "localhost",
 		username: "root",
